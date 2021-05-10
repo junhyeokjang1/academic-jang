@@ -20,6 +20,6 @@ highlight_name: false
 title: JunHyeok Jang
 email: ""
 ---
-JunHyeok Jang is a 
+JunHyeok Jang is a Ph.D. Candidate in Political Science at the University of California, Merced. His research centers on authoritarian politics and democratic backsliding, focusing on the interaction between political institutions and information control. To test hypotheses derived from my theories, he applies cutting-edge quantitative methods, such as causal inference in TSCS analysis, machine learning, and computational text analysis. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
