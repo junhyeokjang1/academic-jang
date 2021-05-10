@@ -12,8 +12,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/junhyeok-jang-9784bb1bb
-organizations:
-  - name: University of California
+organizations: []
 education:
   courses: []
 superuser: true
