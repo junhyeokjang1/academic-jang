@@ -11,7 +11,7 @@ social:
     link: https://twitter.com/hijjang13
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/junhyeok-jang-9784bb1bb
 organizations:
   - name: University of California
 education:
